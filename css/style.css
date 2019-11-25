@@ -43,7 +43,7 @@ body.menu-show {
 }
 
 a {
-    color: #CA82F8;
+    color: #36b5b0;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
@@ -51,7 +51,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: #CA82F8;
+    color: #36b5b0;
 }
 
 a:focus,
@@ -283,7 +283,7 @@ h6 {
 }
 
 #main-nav ul li.active a {
-    color: #CA82F8;
+    color: #36b5b0;
 }
 
 #main-nav .form-group {
@@ -336,7 +336,7 @@ h6 {
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
-    background: #CA82F8;
+    background: #36b5b0;
     color: #fff;
     border: none;
     padding: 16px;
@@ -1326,16 +1326,16 @@ header .navbar-brand .logo:focus {
 }
 
 .btn-primary {
-    background: #CA82F8;
+    background: #36b5b0;
     color: #fff;
-    border: 2px solid #CA82F8;
+    border: 2px solid #36b5b0;
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-    background: #d49af9 !important;
-    border-color: #d49af9 !important;
+    background: #36b5b0 !important;
+    border-color: #36b5b0 !important;
 }
 
 .btn-primary.btn-outline {
@@ -1347,7 +1347,7 @@ header .navbar-brand .logo:focus {
 .btn-primary.btn-outline:hover,
 .btn-primary.btn-outline:focus,
 .btn-primary.btn-outline:active {
-    background: #CA82F8;
+    background: #36b5b0;
     color: #fff;
 }
 
@@ -1683,7 +1683,7 @@ header .navbar-brand .logo:focus {
 }
 
 .contact-info li a {
-    color: #CA82F8;
+    color: #36b5b0;
 }
 
 .form-control {
@@ -1750,7 +1750,7 @@ input[type="text"] {
 
 #footer p.social-icons i {
     font-size: 24px;
-    color: #CA82F8;
+    color: #36b5b0;
 }
 
 #footer p .block {
