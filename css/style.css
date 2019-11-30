@@ -617,7 +617,7 @@ header .navbar-brand .logo:focus {
 }
 
 .img-about {
-    height: 620px;
+    height: auto;
 }
 
 .services-img,
